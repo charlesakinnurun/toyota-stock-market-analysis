@@ -137,3 +137,6 @@ toyota-stock/
 
 -->
 
+<h1 align="center">Toyota Stock Market Analysis</h1>
+
+![header image](/assets/header.png)
