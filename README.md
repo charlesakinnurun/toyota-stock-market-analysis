@@ -137,6 +137,8 @@ toyota-stock/
 
 -->
 
-<h1 align="center">Toyota Stock Market Analysis</h1>
 
-![header image](/assets/header.png)
+
+![header image](/assets/front_cover.webp)
+
+<h1 align="center">Toyota Equity Price Prediction</h1>
