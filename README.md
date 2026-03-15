@@ -139,6 +139,11 @@ toyota-stock/
 
 
 
-![header image](/assets/front_cover.webp)
+<!-- ![header image](/assets/front_cover.webp)-->
+
+
+<!-- ![](/assets/Logo.webp)-->
+
+![](/assets/Toyota-Logo-PNG4.png)
 
 <h1 align="center">Toyota Equity Price Prediction</h1>
